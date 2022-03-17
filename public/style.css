@@ -1,0 +1,134 @@
+.scroll-none {
+    overflow: scroll;
+    scrollbar-width: none;
+    height: 400px;
+}
+
+.cart {
+    display: block;
+    width: 200px;
+}
+
+.bg-comment {
+    background: linear-gradient(45deg, #2a292718, #59585310);
+    border-radius: 7px;
+    box-shadow: 0 .6rem 1rem #2a292725 !important;
+    color: #2a2927af;
+}
+
+.btn-like {
+    background-color: rgba(255, 0, 0, 0.212);
+}
+
+.h-img-tovar {
+    height: 57%;
+}
+
+.avatar {
+    width: 77px;
+}
+
+.w-pill {
+    width: 50px;
+    height: 50px;
+}
+
+.bg-mut {
+    background-color: #dee2e6;
+    font-size: 13px;
+}
+
+.btn-menu-cart {
+    position: relative;
+    left: 97%;
+    bottom: 98%;
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.d:focus,
+.d:active:focus,
+.d.active:focus,
+.d.focus,
+.d:active.focus,
+.d.active.focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.h-cart {
+    height: 350px;
+}
+
+.img-carousel {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.fw-custom {
+    font-weight: 600;
+}
+
+.avatar-seller {
+    width: 50px;
+}
+
+.item-circle {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    top: 55px;
+    right: 22px;
+}
+
+.fs-item-camera {
+    font-size: 13px;
+    width: 13px;
+}
+
+.a-avatar {
+    cursor: pointer;
+}
+
+.a-avatar:hover {
+    filter: brightness(65%);
+}
+
+.comm-avatar {
+    width: 50px;
+    height: 50px;
+}
+
+.basket_img_tovar {
+    height: 100px;
+}
+
+.text-link {
+    --bs-text-opacity: 1;
+    color: #6c757d !important;
+    text-decoration: underline dashed #6c757d;
+    line-height: 20px;
+}
+
+.text-link:hover {
+    color: #000000 !important;
+    text-decoration: underline dashed #6c757d;
+}
+
+.w-35 {
+    width: 35%;
+}
+
+.w-65 {
+    width: 65%;
+}
